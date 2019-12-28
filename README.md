@@ -1,3 +1,3 @@
 # curso-git-practico
 
-Ejercicio de ejemplo del Curso de Girt de EscuelaIT
+Ejercicio de ejemplo del Curso de Git & Github de EscuelaIT
